@@ -275,3 +275,7 @@
  isWelcome();
  document.addEventListener('pjax:complete', isWelcome);
 })();
+
+
+
+
